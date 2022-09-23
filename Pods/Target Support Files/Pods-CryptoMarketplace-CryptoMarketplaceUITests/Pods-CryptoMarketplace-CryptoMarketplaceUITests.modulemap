@@ -1,0 +1,6 @@
+framework module Pods_CryptoMarketplace_CryptoMarketplaceUITests {
+  umbrella header "Pods-CryptoMarketplace-CryptoMarketplaceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
